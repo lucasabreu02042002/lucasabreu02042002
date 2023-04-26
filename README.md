@@ -1,6 +1,6 @@
  Ola eu sou o Lucas Abreu, amente de tecnologia e empreendedorismo
 
-- 🔭 Atualmente estou em busca da minha oportunidade de ser Programador Junior
+- 🔭 Atualmente estou em busca de uma oportunidade de ser Programador Junior
 - 🌱 Me aprofundando sobre Front End e Banco de Dados
 - 💡 Conhecimentos em HTML, CSS, JS, PHP, MySQL
 - 📫 Contate-me pelo cel: (19)99154-8789 ou email: lucasvassoleri@gmail.com
